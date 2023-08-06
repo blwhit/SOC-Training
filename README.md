@@ -1,1 +1,10 @@
-# THM-SOC-Training
+# TryHackMe SOC Level 1:     
+
+### https://tryhackme.com/path/outline/soclevel1
+
+- Detect and analyse traffic anomalies
+- Monitor endpoints for threats
+- Utilise SIEM tools to handle incidents
+- Investigate forensic artefacts
+
+# Certificate:
